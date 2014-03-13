@@ -5,7 +5,6 @@
 
 **Live Preview: http://almsaeedstudio.com/preview/**
 
-**If you like the theme and you are feeling generous, I would greatly appreciate your donation. Donations are made by Paypal** [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "AdminLTE Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")
 
 ![preview image](http://almsaeedstudio.com/adminlte.png "AdminLTE Presentation")
 
